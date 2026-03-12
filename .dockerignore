@@ -1,0 +1,8 @@
+.git
+backend/.venv
+backend/__pycache__
+backend/**/*.pyc
+backend/taskflow.db
+backend/migrations/__pycache__
+**/.DS_Store
+
