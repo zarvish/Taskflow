@@ -30,7 +30,7 @@ The system uses a highly relational PostgreSQL schema:
 
 ## Getting Started
 
-1. Create a `.env` file from `.env.example` (ensure DB credentials match).
+1. Convert all `.env.example` files into `.env` files (found in the root, backend, and frontend directories). The project is pre-configured and will work immediately.
 2. Start the services:
    ```bash
    docker compose up -d --build
@@ -46,7 +46,12 @@ The system uses a highly relational PostgreSQL schema:
 
 
 
+## Walkthrough Video
 
+A detailed technical walkthrough of the architecture, implementation details, and AI-assisted development workflow can be found here:
+
+**[Assignment Walkthrough Video]
+https://drive.google.com/file/d/1VYgVzVHUMZ3mfx02s0c0d3NCr2DqaH53/view?usp=sharing
 
 ## Additional Documentation
 
